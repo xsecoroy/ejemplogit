@@ -1,1 +1,3 @@
-Linea 1 de fichero1
+#Provocando un conflicto
+Este texto lo escribo en la ubicación principal
+sdfsfsdvfs
